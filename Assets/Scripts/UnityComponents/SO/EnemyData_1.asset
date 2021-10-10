@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a468ff3fcee80ca4889d22214992ffd4, type: 3}
+  m_Name: EnemyData_1
+  m_EditorClassIdentifier: 
+  PowerBlueAmount: 0
+  PowerGreenAmount: 0
+  PowerPinkAmount: 0
+  CoinsAmount: 10
+  HealthPoint: 30
+  MaxHealthPoint: 50
+  LevelEnemy: 1
+  DamageEnemy: 5
+  DefenseEnemy: 20
+  MaxDefenseEnemy: 30
+  Sprite: {fileID: -4222659774141856746, guid: 2a90cc20101988c4fa7ff4fd0bad516a, type: 3}
+  HealthPointRestore: 10
+  DefensePointRestore: 15

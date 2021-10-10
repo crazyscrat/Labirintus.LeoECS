@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dc7f1a1cd75054468b8739cf1f384df, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  FirstStart: 0
+  PowerBlueAmountPlayer: 36
+  PowerGreenAmountPlayer: 50
+  PowerPinkAmountPlayer: 49
+  CoinsAmountPlayer: 0
+  HealthPointPlayer: 20
+  MaxHealthPointPlayer: 100
+  LevelPlayer: 0
+  Damage: 10
+  DefensePlayer: 50
+  MaxDefensePlayer: 50
+  Sprite: {fileID: -4182164575153040589, guid: 0cac7f21c6084474d881cff6a99091a1, type: 3}
+  HealthPointRestore: 20
+  DefensePointRestore: 15
+  viewRadius: 2
+  viewAngle: 360
+  rayCount: 100
+  edgeResolveIterations: 4
+  edgeDistThreshold: 0.5
