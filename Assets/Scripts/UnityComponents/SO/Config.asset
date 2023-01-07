@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Config
   m_EditorClassIdentifier: 
   PlayerMoveSpeed: 2
-  widthMaze: 7
-  heightMaze: 5
+  widthMaze: 9
+  heightMaze: 13
   placementThreshold: 0.1
   noClosed: 1
   cameraOffset: {x: 0, y: 0, z: -10}

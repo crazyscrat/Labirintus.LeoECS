@@ -106,7 +106,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1430957905}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.12, z: 0}
+  m_LocalPosition: {x: 0, y: 0.33, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 3729336823322759828}
@@ -126,10 +126,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   projectilePrefab: {fileID: 6861213807309611251, guid: 76085da96ddd6b4498d354ad1ea10ea1, type: 3}
   projectileSocket: {fileID: 1430957906}
-  projectileSpeed: 3
+  projectileSpeed: 5
   projectileRadius: 0.1
   weaponDamage: 1
-  reloadTime: 1
+  reloadTime: 0.5
   currentInMagazine: 0
   maxInMagazine: 0
   totalAmmo: 0

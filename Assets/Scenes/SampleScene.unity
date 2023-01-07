@@ -4396,18 +4396,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1430957906, guid: fceb8c3e0d750944da965c49b70ed7c1, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.33
-      objectReference: {fileID: 0}
-    - target: {fileID: 1430957907, guid: fceb8c3e0d750944da965c49b70ed7c1, type: 3}
-      propertyPath: reloadTime
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 1430957907, guid: fceb8c3e0d750944da965c49b70ed7c1, type: 3}
-      propertyPath: projectileSpeed
-      value: 5
-      objectReference: {fileID: 0}
     - target: {fileID: 3729336823322759825, guid: fceb8c3e0d750944da965c49b70ed7c1, type: 3}
       propertyPath: m_Name
       value: Player
